@@ -1,8 +1,8 @@
-# Tic-Tac-Toe AI Game
+#🎮 Tic-Tac-Toe AI Game
 
 Welcome to the Tic-Tac-Toe AI Game! This implementation utilizes the Minimax algorithm to allow for a challenging gameplay experience against an AI opponent. The game is built using Python's `pygame` library, providing a graphical interface for an engaging user experience.
 
-## Features
+##🚀 Features
 
 - **AI Opponent**: The AI plays as "O" and uses the Minimax algorithm to make optimal moves.
 - **Two Player Options**: Choose to play as either "X" or "O".
@@ -10,7 +10,7 @@ Welcome to the Tic-Tac-Toe AI Game! This implementation utilizes the Minimax alg
 
 ## Key Concepts
 
-### Minimax Algorithm
+###🧠 Minimax Algorithm
 The Minimax algorithm is a decision-making tool used in two-player games, where one player's gain is another's loss. In this game:
 - **Maximizer (X)**: Aims to maximize their score (winning).
 - **Minimizer (O)**: Aims to minimize the opponent's score (forcing them into losing positions).
@@ -33,7 +33,7 @@ The AI evaluates all possible moves using the following functions:
 3. **AI's Move**: The AI calculates its optimal move using the Minimax algorithm.
 4. **Game Outcome**: The game continues until there’s a win or a tie.
 
-## How to Run
+##📦 How to Run
 
 1. Ensure you have Python and the `pygame` library installed. You can install `pygame` using:
    
@@ -61,7 +61,7 @@ The AI evaluates all possible moves using the following functions:
 
 This Tic-Tac-Toe AI Game provides an excellent opportunity to challenge yourself against a well-optimized AI. The Minimax algorithm ensures that the AI makes the best possible moves, resulting in an engaging and competitive experience. Enjoy playing and may the best player win!
 
-## License
+##📝 License
 
 This project is licensed under the MIT License. Feel free to modify and share!
 
