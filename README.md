@@ -45,7 +45,13 @@ The AI evaluates all possible moves using the following functions:
 4. Run the game:
    
    python tic_tac_toe.py
-   
+   ** Output for this game **
+   ![1](https://github.com/user-attachments/assets/de53ce20-5ae0-42ad-9a06-4b56957d1410)
+   ![2](https://github.com/user-attachments/assets/8109b447-617d-4013-9134-d052136f11fa)
+   ![3](https://github.com/user-attachments/assets/45f1c34e-670d-4ff8-90ef-4ef62cbad581)
+
+
+
 
 ## Summary
 
