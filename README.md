@@ -1,4 +1,4 @@
-🎮# Tic-Tac-Toe AI Game
+🎮 #   Tic-Tac-Toe AI Game
 
 Welcome to the Tic-Tac-Toe AI Game! This implementation utilizes the Minimax algorithm to allow for a challenging gameplay experience against an AI opponent. The game is built using Python's `pygame` library, providing a graphical interface for an engaging user experience.
 
